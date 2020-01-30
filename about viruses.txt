@@ -1,4 +1,0 @@
-In version 1.9.1 there are NO VIRUSES, it is perceived as a virus only by little-used and unknown anti-viruses. 
-Those viruses that antivirus finds are FALSE. I do not distribute virus software.
-Checked the browser from different computers, everything works to this day NORMAL. 
-Do not be nervous, we will switch to PHP, since there are "viruses" there. 
